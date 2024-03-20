@@ -1,2 +1,2 @@
-# FirstWebsite
+# firstWebsite
 Self Explanatory :)
